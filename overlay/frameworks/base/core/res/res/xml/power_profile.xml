@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <device name="Android">
     <item name="ambient.on">0.1</item>
-    <item name="screen.on">120.9</item>
+    <item name="screen.on">112.7</item>
     <item name="screen.full">146.2</item>
     <item name="bluetooth.active">79.0</item>
     <item name="bluetooth.on">1.0</item>
